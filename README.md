@@ -1,6 +1,6 @@
 # Atuin Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=[https://github.com/johnbeynon/render-atuin-demo](https://github.com/johnbeynonorg/render-atuin-demo)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=(https://github.com/johnbeynonorg/render-atuin-demo)
 
 Deploy an Atuin server to Render to sync your command line history - see https://atuin.sh/ for more details
 
