@@ -2,10 +2,9 @@ services:
   - type: web
     name: atiun-server
     runtime: image
-    dockerCommand: atuin server start
     autoDeploy: false
     image:
-      url: ghcr.io/ellie/atuin:latest
+      url: docker.io/library/nginx:latest
     envVars:
       - key: ATUIN_HOST
         value: 0.0.0.0
