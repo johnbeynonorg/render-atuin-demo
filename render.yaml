@@ -11,6 +11,8 @@ services:
         value: 0.0.0.0
       - key: ATUIN_OPEN_REGISTRATION
         value: true # change to true to allow registrations
+      - key: FOO
+        value: BAH
       - key: ATUIN_DB_URI
         fromDatabase:
           name: atuin-db
