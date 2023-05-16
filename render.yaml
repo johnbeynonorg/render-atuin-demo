@@ -3,7 +3,6 @@ services:
   - type: web
     name: atiun-server
     runtime: image
-    autoDeploy: false
     image:
       url: docker.io/library/nginx:latest
     envVars:
